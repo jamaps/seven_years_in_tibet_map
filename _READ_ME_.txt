@@ -1,1 +1,20 @@
-READMEWelcome to the project folder for my map of “Seven Years in Tibet” built for Assignment 2 in GGR225.To view the map, open a2map.html with your web browser (I’ve tested it successfully in Google Chrome and Mozilla Firefox).  To read the report detailing the mapping process, open a2report.pdf.Feel free to view any of the accompanying files in the “Files” folder.  You can also inspect the html code by opening it with a text editor.  However, changing file paths or editing files directly could prevent the web-map from working properly.  Please email me at jeff.allen@mail.utoronto.ca if there are any problems with viewing the map or if you have any further questions.Thank you and have a nice day.- Jeff Allen
+README
+
+Welcome to the project folder for my map of “Seven Years in Tibet” 
+
+I built this map using the for a project in GGR225 at the University of Toronto.
+
+Sources:
+
+Adobe Brackets. http://brackets.io/
+Adobe Illustrator. Accessed at the University of Toronto.
+GeoJson. http://geojson.org/
+Google Chrome. http://www.google.com/chrome/
+GPS Visualizer, Freehand Drawing Utility. http://www.gpsvisualizer.com/draw/
+Leaflet. http://leafletjs.com/
+MapBox. https://www.mapbox.com/
+OpenStreetMap. http://www.openstreetmap.org/
+QGIS. http://www.qgis.org/en/site/
+Wikimedia Commons. (for images). https://commons.wikimedia.org/
+
+- Jeff Allen
