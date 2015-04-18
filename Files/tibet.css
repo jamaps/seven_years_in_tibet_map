@@ -1,0 +1,80 @@
+body {
+    margin: 0 auto;
+    padding: 0em 0em 0em;
+    max-width: absolute;
+    background-color: #141414;
+    box-shadow: 0 0 0px rgba(0.5, 0.5, 0.5, 0.5);
+}
+
+.left {
+    background-image: url('Images/WadiCont2.png');
+    height: 100vh;
+    width: 250px;
+    float: left;
+    opacity: 0.95;
+}
+
+.left .cont {
+    margin: 20px;
+    width: 210px;
+    height: 90vh;
+}
+
+
+.left .cont h1 {
+    color: white;
+    font-family: "Architects Daughter", cursive;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 200;
+    opacity: 0.95;
+    line-height: 120%;
+    letter-spacing: 3px;
+
+}
+
+.left .cont p {
+    color: white;
+    font-family: "arial", sans-serif;
+    text-align: center;
+    font-weight: 200;
+    opacity: 0.8;
+    line-height: 150%;
+    font-size: 14px;
+}
+
+.line {
+    height: 100vh;
+    width: 1px;
+    float: left;
+    background-color: #d4d1d1;
+}
+
+#map {
+    height: 100vh;
+}
+
+.leaflet-popup-content-wrapper {
+  background:#26282a;
+  color:#fff;
+    opacity: 0.97;
+  font-size:13px;
+  line-height:16px;
+    width: 290px;
+  
+  }
+
+
+.leaflet-popup-tip {
+  background: #26282a;
+    opacity: 0.97;
+  }
+
+.leaflet-container .leaflet-control-mouseposition {
+  background-color: rgba(255, 255, 255, 0.7);
+  box-shadow: 0 0 5px #bbb;
+  padding: 0 5px;
+  margin:0;
+  color: #333;
+  font: 11px/1.5 "Helvetica Neue", sans-serif;
+}
