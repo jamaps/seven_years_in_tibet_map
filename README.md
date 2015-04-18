@@ -1,4 +1,4 @@
-#Welcome to the project folder for my map of “Seven Years in Tibet” 
+###Welcome to the project folder for my map of “Seven Years in Tibet” 
 
 I built this map for a project in GGR225 at the University of Toronto.
 
@@ -17,4 +17,4 @@ Wikimedia Commons. (for images). https://commons.wikimedia.org/
 
 Thank You
 
-- Jeff Allen
+Jeff Allen
