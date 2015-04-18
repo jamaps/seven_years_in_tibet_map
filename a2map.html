@@ -1,7 +1,6 @@
 <!--
 
 Welcome to the html file for the "Seven Years in Tibet" map!
-(built by Jeff Allen for GGR225)
 
 -->
 
@@ -77,6 +76,7 @@ L.control.layers(layers).addTo(map);
 new L.control.scale({maxWidth: 222, imperial: false}).addTo(map);
 
 //mouse coordinate script
+//from https://github.com/ardhi/Leaflet.MousePosition/blob/master/src/L.Control.MousePosition.js by Ardhi Lukianto
 L.Control.MousePosition = L.Control.extend({
   options: {
     position: 'bottomleft',
