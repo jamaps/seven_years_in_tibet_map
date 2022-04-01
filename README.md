@@ -1,4 +1,4 @@
-####Mapping Harrer's "Seven Years in Tibet"
+### Mapping Harrer's "Seven Years in Tibet"
 
 
 I built this map for a project in GGR225 at the University of Toronto.
